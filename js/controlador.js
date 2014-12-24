@@ -1,3 +1,3 @@
 myApp.controller('controlador', function ($scope){
-	console.log('Hola Mundo');
+	$scope.Mensaje = 'Hola Mundo';
 });
